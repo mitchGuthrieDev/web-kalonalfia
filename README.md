@@ -1,2 +1,2 @@
-# web-kalonalfia
-Site for kalonalfia.net
+# web-metaprose
+Website for Metaprose
